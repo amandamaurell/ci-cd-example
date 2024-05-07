@@ -3,7 +3,7 @@ name: Test API on Push
 
 on:
   push:
-    branches: [ master, main ]
+    branches: [ master, main, cd-streamlit ]
   pull_request:
     branches: [ master, main ]
 
